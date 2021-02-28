@@ -1,4 +1,4 @@
-nipomo_high_school_library
+NipomoHighSchoolLibrary
 
 number_of_books = 1000
 genre_of_books = ["romance","fiction", "science fiction", "non-fiction", "historical fiction"]
