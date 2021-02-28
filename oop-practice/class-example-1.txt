@@ -1,0 +1,11 @@
+library
+
+number_of_books (int)
+genre_of_books (array)
+is_open (boolean)
+librarian_name (string)
+
+order_books (adds to the number_of_books attribute)
+book_giveaway (subtracts number_of_books attribute)
+close (updates the is_open attribute)
+hire_new_librarian (updates librarian_name attribute)
