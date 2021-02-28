@@ -1,4 +1,4 @@
-nipomo_high_school_cafeteria
+NipomoHighSchoolCafeteria
 
 gives_food = true
 has_kitchen = true
