@@ -1,0 +1,11 @@
+nipomo_high_school_library
+
+number_of_books = 1000
+genre_of_books = ["romance","fiction", "science fiction", "non-fiction", "historical fiction"]
+is_open = true
+librarian_name = "Jennifer Matsuura"
+
+order_books: number_of_books = 1050
+book_giveaway: number_of_books = 1040
+close: is_open = is_closed
+hire_new_librarian: librarian_name = Kate Bass 
