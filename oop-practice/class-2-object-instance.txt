@@ -1,0 +1,12 @@
+nipomo_high_school_cafeteria
+
+gives_food = true
+has_kitchen = true
+menu_list = ["enchiladas", "burritos", "pasta", "nachos", "salad"]
+lunch_lady_names = ["Ruby", "Stephanie", "Sam", "Clyvedon"]
+days_open = 5
+
+new_recipe: menu_list = ["enchiladas", "burritos", "pasta", "nachos", "salad", "chinese food"]
+hire_lunch_lady: lunch_lady_names = ["Ruby", "Stephanie", "Sam", "Clyvedon", "Mushu"]
+fire_lunch_lady: lunch_lady_names = ["Ruby", "Sam", "Clyvedon"]
+closed: days_open = 0 
