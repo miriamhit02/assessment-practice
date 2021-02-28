@@ -1,0 +1,12 @@
+cafeteria
+
+gives_food (boolean)
+has_kitchen (boolean)
+menu_list (array)
+lunch_lady_names (array)
+days_open (int)
+
+new_recipe (updates menu_list attribute)
+hire_lunch_lady (updates lunch_lady_names attribute)
+fire_lunch_lady (updates lunch_lady_names attribute)
+closed (updates days_open attribute)
